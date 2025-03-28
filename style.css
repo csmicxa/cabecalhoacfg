@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0d8a8;
+    background-color: #a8bff0;
 }
 
 /* Cabeçalho */
@@ -41,7 +41,7 @@ nav.menu ul li {
 
 nav.menu ul li a {
     text-decoration: none;
-    color: white;
+    color: rgb(173, 199, 255);
     font-size: 18px;
 }
 
@@ -52,7 +52,7 @@ nav.menu ul li a {
 }
 
 .conteudo h2 {
-    color: #333;
+    color: #3600b4;
 }
 
 /* Responsividade: Menu Hambúrguer */
